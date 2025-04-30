@@ -1,8 +1,8 @@
-TypoTest – Java Swing Typing Speed Test
+**TypoTest – Java Swing Typing Speed Test**
 
 A feature-rich Typing Speed Test desktop application built with Java Swing. Measure your typing speed (WPM) and accuracy, view your performance history in a persistent scoreboard, toggle between Light and Dark themes, and enjoy a full-window responsive design experience.
 
-Features
+**Features**
 
 Random sentence generation every test
 Real-time timer
@@ -15,7 +15,7 @@ Theme toggle between light and dark modes
 Fullscreen & responsive layout
 Press Enter key to end the test early
 
-Prerequisites
+**Prerequisites**
 
 Java JDK 8 or later installed
 A Java IDE (like IntelliJ IDEA, Eclipse) or simple terminal
