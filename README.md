@@ -14,3 +14,8 @@ Clear Scores button to reset scoreboard
 Theme toggle between light and dark modes
 Fullscreen & responsive layout
 Press Enter key to end the test early
+
+Prerequisites
+
+Java JDK 8 or later installed
+A Java IDE (like IntelliJ IDEA, Eclipse) or simple terminal
